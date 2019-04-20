@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2dd6f08-0190-4a30-9492-f9e122c71c99" name="Default Changelist" comment="">
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+>>>>>>> d973c74dd4a420e642408113ff26761ccf921961
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -35,6 +39,7 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day06-code/src/com/lcscim/study/demo1/Demo1ArrayList.java">
+<<<<<<< HEAD
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="30" />
@@ -60,12 +65,20 @@
                 <element signature="e#455#456#0" expanded="true" />
                 <element signature="e#489#490#0" expanded="true" />
                 <element signature="e#590#591#0" expanded="true" />
+=======
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="30" selection-start-column="8" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+>>>>>>> d973c74dd4a420e642408113ff26761ccf921961
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/day06-code/src/com/lcscim/study/demo2/Manager.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="462">
@@ -73,12 +86,29 @@
               <folding>
                 <element signature="e#142#143#0" expanded="true" />
                 <element signature="e#176#177#0" expanded="true" />
+=======
+        <entry file="file://$PROJECT_DIR$/day06-code/src/com/lcscim/study/demo2/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+              <folding>
+                <element signature="e#323#324#0" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
+                <element signature="e#294#295#0" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
+                <element signature="e#366#367#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#423#424#0" expanded="true" />
+                <element signature="e#462#463#0" expanded="true" />
+                <element signature="e#496#497#0" expanded="true" />
+>>>>>>> d973c74dd4a420e642408113ff26761ccf921961
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/day06-code/src/com/lcscim/study/demo2/Qy.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
@@ -87,6 +117,15 @@
                 <element signature="imports" expanded="true" />
                 <element signature="e#127#128#0" expanded="true" />
                 <element signature="e#161#162#0" expanded="true" />
+=======
+        <entry file="file://$PROJECT_DIR$/day06-code/src/com/lcscim/study/demo2/Manager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#142#143#0" expanded="true" />
+                <element signature="e#176#177#0" expanded="true" />
+>>>>>>> d973c74dd4a420e642408113ff26761ccf921961
               </folding>
             </state>
           </provider>
@@ -136,8 +175,11 @@
         <option value="$PROJECT_DIR$/day06-code/src/com/lcscim/study/demo1/Demo1ArrayList.java" />
         <option value="$PROJECT_DIR$/day06-code/src/com/lcscim/study/demo2/User.java" />
         <option value="$PROJECT_DIR$/day06-code/src/com/lcscim/study/demo2/Manager.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/day06-code/src/com/lcscim/study/demo2/Qy.java" />
         <option value="$PROJECT_DIR$/day06-code/src/com/lcscim/study/demo2/Test.java" />
+=======
+>>>>>>> d973c74dd4a420e642408113ff26761ccf921961
       </list>
     </option>
   </component>
@@ -352,17 +394,26 @@
       <workItem from="1554384277164" duration="2858000" />
       <workItem from="1554464682684" duration="3621000" />
       <workItem from="1555074699946" duration="1256000" />
+<<<<<<< HEAD
       <workItem from="1555161401104" duration="910000" />
       <workItem from="1555765848256" duration="2120000" />
+=======
+      <workItem from="1555749720548" duration="1002000" />
+>>>>>>> d973c74dd4a420e642408113ff26761ccf921961
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="22061000" />
+=======
+    <option name="totallyTimeSpent" value="20033000" />
+>>>>>>> d973c74dd4a420e642408113ff26761ccf921961
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.13486141" />
       <window_info id="Structure" order="1" sideWeight="0.5010846" side_tool="true" weight="0.13486141" />
       <window_info id="Image Layers" order="2" />
@@ -395,6 +446,9 @@
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13486141" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1337953" />
+>>>>>>> d973c74dd4a420e642408113ff26761ccf921961
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -526,26 +580,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day05-code/src/com/lcscim/practice/demo2/Student.java">
+    <entry file="file://$PROJECT_DIR$/day05-code/src/com/lcscim/practice/demo2/Student.java" />
+    <entry file="file://$PROJECT_DIR$/day05-code/src/com/lcscim/practice/demo2/Demo2Student.java" />
+    <entry file="file://$PROJECT_DIR$/day05-code/src/com/lcscim/practice/demo3/Demo3Scanner.java" />
+    <entry file="file://$PROJECT_DIR$/day05-code/src/com/lcscim/practice/demo3/ScammerSum.java" />
+    <entry file="file://$PROJECT_DIR$/day05-code/src/com/lcscim/practice/demo3/ScannerMax.java" />
+    <entry file="file://$PROJECT_DIR$/day05-code/src/com/lcscim/practice/demo3/GuessNumber.java" />
+    <entry file="file://$PROJECT_DIR$/day06-code/src/com/lcscim/study/demo1/Demo1ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        <state>
+          <caret column="30" selection-start-column="8" selection-end-column="30" />
           <folding>
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-            <element signature="e#517#518#0" expanded="true" />
-            <element signature="e#547#548#0" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-            <element signature="e#605#606#0" expanded="true" />
-            <element signature="e#646#647#0" expanded="true" />
-            <element signature="e#678#679#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/day05-code/src/com/lcscim/practice/demo2/Demo2Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -584,6 +635,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> d973c74dd4a420e642408113ff26761ccf921961
     <entry file="file://$PROJECT_DIR$/day05-code/src/com/lcscim/practice/demo1/Demo1Phone.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -591,16 +644,32 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/day06-code/src/com/lcscim/study/demo1/Demo1ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="30" />
+=======
+    <entry file="file://$PROJECT_DIR$/day06-code/src/com/lcscim/study/demo2/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+>>>>>>> d973c74dd4a420e642408113ff26761ccf921961
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/day06-code/src/com/lcscim/study/demo2/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="609">
@@ -645,6 +714,15 @@
             <element signature="imports" expanded="true" />
             <element signature="e#127#128#0" expanded="true" />
             <element signature="e#161#162#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/day06-code/src/com/lcscim/study/demo2/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+>>>>>>> d973c74dd4a420e642408113ff26761ccf921961
           </folding>
         </state>
       </provider>
