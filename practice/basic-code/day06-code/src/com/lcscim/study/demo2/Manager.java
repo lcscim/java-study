@@ -9,7 +9,6 @@ public class Manager extends User {
     public Manager(String name, int money) {
         super(name, money);
     }
-<<<<<<< HEAD
 
     public ArrayList<Integer> send(int money, int count) {
         int leftmoney = getMoney();
@@ -25,9 +24,5 @@ public class Manager extends User {
         }
         list.add(m + l);
         return list;
-=======
-    public ArrayList<Integer> send(int money,int count){
-
->>>>>>> d973c74dd4a420e642408113ff26761ccf921961
     }
 }
