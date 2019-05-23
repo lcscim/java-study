@@ -1,0 +1,3 @@
+location=C:\a.txt
+filename=a.txt
+length=209385038
