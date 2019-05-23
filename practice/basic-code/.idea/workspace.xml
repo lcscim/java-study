@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2dd6f08-0190-4a30-9492-f9e122c71c99" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c2dd6f08-0190-4a30-9492-f9e122c71c99" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,25 +31,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo1/FileUpload_Server.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo2/Demo2ConsumerAndThen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="492">
-              <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="126">
+              <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo1/FileUpload_Client.java">
+        <entry file="file://$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo2/Demo1PredicateTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+            <state relative-caret-position="252">
+              <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo2/Demo5PredicateTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#414#415#0" expanded="true" />
+                <element signature="e#480#481#0" expanded="true" />
+                <element signature="e#583#584#0" expanded="true" />
+                <element signature="e#651#652#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -74,13 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day05-code/src/com/lcscim/practice/demo3/Demo3Scanner.java" />
-        <option value="$PROJECT_DIR$/day05-code/src/com/lcscim/practice/demo3/ScammerSum.java" />
-        <option value="$PROJECT_DIR$/day05-code/src/com/lcscim/practice/demo3/ScannerMax.java" />
-        <option value="$PROJECT_DIR$/day05-code/src/com/lcscim/practice/demo3/GuessNumber.java" />
-        <option value="$PROJECT_DIR$/day06-code/src/com/lcscim/study/demo1/Demo1ArrayList.java" />
-        <option value="$PROJECT_DIR$/day06-code/src/com/lcscim/study/demo2/User.java" />
-        <option value="$PROJECT_DIR$/day06-code/src/com/lcscim/study/demo2/Qy.java" />
         <option value="$PROJECT_DIR$/day06-code/src/com/lcscim/study/demo2/Test.java" />
         <option value="$PROJECT_DIR$/day06-code/src/com/lcscim/study/demo2/Manager.java" />
         <option value="$PROJECT_DIR$/day06-code/src/com/lcscim/study/demo4/LiveDays.java" />
@@ -125,6 +125,13 @@
         <option value="$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo1/ClientTCP.java" />
         <option value="$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo1/FileUpload_Client.java" />
         <option value="$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo1/FileUpload_Server.java" />
+        <option value="$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo2/Demo1ConsumerAndThen.java" />
+        <option value="$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo2/Demo2ConsumerAndThen.java" />
+        <option value="$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo2/Demo1PredicateTest.java" />
+        <option value="$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo2/Demo2PredicateTest.java" />
+        <option value="$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo2/Demo3PredicateTest.java" />
+        <option value="$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo2/Demo4PredicateTest.java" />
+        <option value="$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo2/Demo5PredicateTest.java" />
       </list>
     </option>
   </component>
@@ -171,7 +178,7 @@
               <item name="day09-code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="demo1" type="462c0819:PsiDirectoryNode" />
+              <item name="demo2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -234,6 +241,9 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lcscim.study.demo2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\asus\Desktop\kaifa\java-study\practice\basic-code\day08-code" />
     </key>
@@ -250,25 +260,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ClientTCP">
-    <configuration name="ClientTCP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lcscim.study.demo1.ClientTCP" />
+  <component name="RunManager" selected="Application.Demo5PredicateTest">
+    <configuration name="Demo1PredicateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lcscim.study.demo2.Demo1PredicateTest" />
       <module name="day09-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lcscim.study.demo1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo1PrintStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lcscim.study.demo2.Demo1PrintStream" />
-      <module name="day08-code" />
-      <extension name="coverage">
-        <pattern>
           <option name="PATTERN" value="com.lcscim.study.demo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
@@ -277,38 +274,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeserializeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lcscim.study.demo2.DeserializeDemo" />
-      <module name="day08-code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lcscim.study.demo2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SerializeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lcscim.study.demo2.SerializeDemo" />
-      <module name="day08-code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lcscim.study.demo2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ServerTCP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lcscim.study.demo1.ServerTCP" />
+    <configuration name="Demo2PredicateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lcscim.study.demo2.Demo2PredicateTest" />
       <module name="day09-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lcscim.study.demo1.*" />
+          <option name="PATTERN" value="com.lcscim.study.demo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo3PredicateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lcscim.study.demo2.Demo3PredicateTest" />
+      <module name="day09-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lcscim.study.demo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo4PredicateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lcscim.study.demo2.Demo4PredicateTest" />
+      <module name="day09-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lcscim.study.demo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo5PredicateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lcscim.study.demo2.Demo5PredicateTest" />
+      <module name="day09-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lcscim.study.demo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -318,11 +328,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ClientTCP" />
-        <item itemvalue="Application.ServerTCP" />
-        <item itemvalue="Application.Demo1PrintStream" />
-        <item itemvalue="Application.DeserializeDemo" />
-        <item itemvalue="Application.SerializeDemo" />
+        <item itemvalue="Application.Demo5PredicateTest" />
+        <item itemvalue="Application.Demo4PredicateTest" />
+        <item itemvalue="Application.Demo2PredicateTest" />
+        <item itemvalue="Application.Demo3PredicateTest" />
+        <item itemvalue="Application.Demo1PredicateTest" />
       </list>
     </recent_temporary>
   </component>
@@ -361,16 +371,17 @@
       <workItem from="1558507659036" duration="8576000" />
       <workItem from="1558579958300" duration="5561000" />
       <workItem from="1558594237447" duration="1571000" />
+      <workItem from="1558602524022" duration="4511000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60899000" />
+    <option name="totallyTimeSpent" value="65410000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="494" y="40" width="1295" height="983" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.23238866" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.23643725" />
       <window_info id="Structure" order="1" sideWeight="0.5010846" side_tool="true" weight="0.13486141" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -389,7 +400,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32941177" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.34994584" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.34941176" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -440,61 +451,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day06-code/src/com/lcscim/study/demo3/DemoMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day06-code/src/com/lcscim/study/demo4/LiveDays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day06-code/src/com/lcscim/study/demo2/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day06-code/src/com/lcscim/study/demo5/MapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day06-code/src/com/lcscim/study/AutoPoker.java" />
-    <entry file="file://$PROJECT_DIR$/day06-code/src/com/lcscim/study/demo5/Poker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day06-code/src/com/lcscim/study/demo5/AutoPoker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-start-column="8" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day07-code/src/com/lcscim/study/demo1/Demo1Thread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -834,6 +790,78 @@
           <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo2/Demo1ConsumerAndThen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo2/Demo2PredicateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo2/Demo3PredicateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+          <folding>
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo2/Demo4PredicateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo2/Demo1PredicateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo2/Demo2ConsumerAndThen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo2/Demo5PredicateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#651#652#0" expanded="true" />
           </folding>
         </state>
       </provider>
