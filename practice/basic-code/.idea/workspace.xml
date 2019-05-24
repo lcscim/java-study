@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2dd6f08-0190-4a30-9492-f9e122c71c99" name="Default Changelist" comment="" />
+    <list default="true" id="c2dd6f08-0190-4a30-9492-f9e122c71c99" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,35 +34,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo2/Demo2ConsumerAndThen.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo2/Demo1PredicateTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo2/Demo5PredicateTest.java">
+        <entry file="file://$PROJECT_DIR$/day10-code/src/com/lcscim/study/demo2/StreamFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+            <state relative-caret-position="611">
+              <caret line="33" column="53" lean-forward="true" selection-start-line="33" selection-start-column="53" selection-end-line="33" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#414#415#0" expanded="true" />
-                <element signature="e#480#481#0" expanded="true" />
-                <element signature="e#583#584#0" expanded="true" />
-                <element signature="e#651#652#0" expanded="true" />
+                <element signature="e#484#485#0" expanded="true" />
+                <element signature="e#528#529#0" expanded="true" />
+                <element signature="e#650#651#0" expanded="true" />
+                <element signature="e#694#695#0" expanded="true" />
+                <element signature="e#847#848#0" expanded="true" />
+                <element signature="e#899#900#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -81,11 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day06-code/src/com/lcscim/study/demo2/Test.java" />
-        <option value="$PROJECT_DIR$/day06-code/src/com/lcscim/study/demo2/Manager.java" />
-        <option value="$PROJECT_DIR$/day06-code/src/com/lcscim/study/demo4/LiveDays.java" />
-        <option value="$PROJECT_DIR$/day06-code/src/com/lcscim/study/demo5/Poker.java" />
-        <option value="$PROJECT_DIR$/day06-code/src/com/lcscim/study/demo5/MapTest.java" />
         <option value="$PROJECT_DIR$/day06-code/src/com/lcscim/study/demo5/AutoPoker.java" />
         <option value="$PROJECT_DIR$/day07-code/src/com/lcscim/study/demo1/MyThread.java" />
         <option value="$PROJECT_DIR$/day07-code/src/com/lcscim/study/demo1/Demo1Thread.java" />
@@ -132,6 +114,11 @@
         <option value="$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo2/Demo3PredicateTest.java" />
         <option value="$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo2/Demo4PredicateTest.java" />
         <option value="$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo2/Demo5PredicateTest.java" />
+        <option value="$PROJECT_DIR$/day10-code/src/com/lcscim/study/demo1/FunctionApplyDemo1.java" />
+        <option value="$PROJECT_DIR$/day10-code/src/com/lcscim/study/demo1/FunctionAndThenDemo1.java" />
+        <option value="$PROJECT_DIR$/day10-code/src/com/lcscim/study/demo1/FunctionAndThenDemo2.java" />
+        <option value="$PROJECT_DIR$/day10-code/src/com/lcscim/study/demo1/Demo1Function.java" />
+        <option value="$PROJECT_DIR$/day10-code/src/com/lcscim/study/demo2/StreamFilter.java" />
       </list>
     </option>
   </component>
@@ -160,22 +147,29 @@
           <expand>
             <path>
               <item name="basic-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day09-code" type="462c0819:PsiDirectoryNode" />
+              <item name="day10-code" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="basic-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day09-code" type="462c0819:PsiDirectoryNode" />
+              <item name="day10-code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="basic-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day09-code" type="462c0819:PsiDirectoryNode" />
+              <item name="day10-code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="basic-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day09-code" type="462c0819:PsiDirectoryNode" />
+              <item name="day10-code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="demo1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day10-code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
               <item name="demo2" type="462c0819:PsiDirectoryNode" />
@@ -184,7 +178,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -225,6 +218,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -242,6 +236,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lcscim.study.demo1" />
       <recent name="com.lcscim.study.demo2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -260,13 +255,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo5PredicateTest">
-    <configuration name="Demo1PredicateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lcscim.study.demo2.Demo1PredicateTest" />
-      <module name="day09-code" />
+  <component name="RunManager" selected="Application.StreamFilter">
+    <configuration name="Demo1Function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lcscim.study.demo1.Demo1Function" />
+      <module name="day10-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lcscim.study.demo2.*" />
+          <option name="PATTERN" value="com.lcscim.study.demo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -274,12 +269,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo2PredicateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lcscim.study.demo2.Demo2PredicateTest" />
-      <module name="day09-code" />
+    <configuration name="FunctionAndThenDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lcscim.study.demo1.FunctionAndThenDemo1" />
+      <module name="day10-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lcscim.study.demo2.*" />
+          <option name="PATTERN" value="com.lcscim.study.demo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -287,12 +282,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo3PredicateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lcscim.study.demo2.Demo3PredicateTest" />
-      <module name="day09-code" />
+    <configuration name="FunctionAndThenDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lcscim.study.demo1.FunctionAndThenDemo2" />
+      <module name="day10-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lcscim.study.demo2.*" />
+          <option name="PATTERN" value="com.lcscim.study.demo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -300,12 +295,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo4PredicateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lcscim.study.demo2.Demo4PredicateTest" />
-      <module name="day09-code" />
+    <configuration name="FunctionApplyDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lcscim.study.demo1.FunctionApplyDemo1" />
+      <module name="day10-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lcscim.study.demo2.*" />
+          <option name="PATTERN" value="com.lcscim.study.demo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -313,9 +308,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo5PredicateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lcscim.study.demo2.Demo5PredicateTest" />
-      <module name="day09-code" />
+    <configuration name="StreamFilter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lcscim.study.demo2.StreamFilter" />
+      <module name="day10-code" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.lcscim.study.demo2.*" />
@@ -328,11 +323,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo5PredicateTest" />
-        <item itemvalue="Application.Demo4PredicateTest" />
-        <item itemvalue="Application.Demo2PredicateTest" />
-        <item itemvalue="Application.Demo3PredicateTest" />
-        <item itemvalue="Application.Demo1PredicateTest" />
+        <item itemvalue="Application.StreamFilter" />
+        <item itemvalue="Application.Demo1Function" />
+        <item itemvalue="Application.FunctionAndThenDemo2" />
+        <item itemvalue="Application.FunctionAndThenDemo1" />
+        <item itemvalue="Application.FunctionApplyDemo1" />
       </list>
     </recent_temporary>
   </component>
@@ -372,16 +367,17 @@
       <workItem from="1558579958300" duration="5561000" />
       <workItem from="1558594237447" duration="1571000" />
       <workItem from="1558602524022" duration="4511000" />
+      <workItem from="1558664488782" duration="4450000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65410000" />
+    <option name="totallyTimeSpent" value="69860000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="494" y="40" width="1295" height="983" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.23643725" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.24048583" />
       <window_info id="Structure" order="1" sideWeight="0.5010846" side_tool="true" weight="0.13486141" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -451,45 +447,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day07-code/src/com/lcscim/study/demo1/Demo1Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day07-code/src/com/lcscim/study/demo1/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="9" />
-          <folding>
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#132#133#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day07-code/src/com/lcscim/study/demo1/Demo2Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day07-code/src/com/lcscim/study/demo1/MyRunnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="63" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day07-code/src/com/lcscim/study/demo1/Ticket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day07-code/src/com/lcscim/study/demo1/WaitingTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -805,19 +762,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo2/Demo2PredicateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#412#413#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo2/Demo3PredicateTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -838,30 +782,105 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo2/Demo1PredicateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo2/Demo2ConsumerAndThen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo2/Demo5PredicateTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        <state relative-caret-position="304">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#414#415#0" expanded="true" />
             <element signature="e#480#481#0" expanded="true" />
             <element signature="e#583#584#0" expanded="true" />
             <element signature="e#651#652#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo2/Demo1PredicateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-code/src/com/lcscim/study/demo1/FunctionAndThenDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo2/Demo2PredicateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-code/src/com/lcscim/study/demo1/FunctionApplyDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+          <folding>
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09-code/src/com/lcscim/study/demo2/Demo2ConsumerAndThen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-code/src/com/lcscim/study/demo1/FunctionAndThenDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-code/src/com/lcscim/study/demo1/Demo1Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+          <folding>
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-code/src/com/lcscim/study/demo2/StreamFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="33" column="53" lean-forward="true" selection-start-line="33" selection-start-column="53" selection-end-line="33" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
+            <element signature="e#847#848#0" expanded="true" />
+            <element signature="e#899#900#0" expanded="true" />
           </folding>
         </state>
       </provider>
