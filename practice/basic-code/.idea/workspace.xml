@@ -33,13 +33,14 @@
     <favorites_list name="basic-code" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -49,9 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day07-code/src/com/lcscim/study/demo3/Demo2Comparator.java" />
-        <option value="$PROJECT_DIR$/day07-code/src/com/lcscim/study/demo3/Calculator.java" />
-        <option value="$PROJECT_DIR$/day07-code/src/com/lcscim/study/demo3/Demo3InvokeCalc.java" />
         <option value="$PROJECT_DIR$/day07-code/src/com/lcscim/study/demo3/Demo1TestLambda.java" />
         <option value="$PROJECT_DIR$/day07-code/src/com/lcscim/study/demo3/Demo4DiGui.java" />
         <option value="$PROJECT_DIR$/day07-code/src/com/lcscim/study/demo3/Demo5DiGui.java" />
@@ -100,6 +98,9 @@
         <option value="$PROJECT_DIR$/day12-code/src/com/lcscim/study/demo1/Student.java" />
         <option value="$PROJECT_DIR$/day12-code/src/com/lcscim/study/demo1/ClassDemo3.java" />
         <option value="$PROJECT_DIR$/day12-code/src/pro.properties" />
+        <option value="$PROJECT_DIR$/day13-code/src/com/lcscim/study/demo1/EnumDemo1.java" />
+        <option value="$PROJECT_DIR$/day13-code/src/com/lcscim/study/demo1/Spiciness.java" />
+        <option value="$PROJECT_DIR$/day13-code/src/com/lcscim/study/demo1/Burrito.java" />
       </list>
     </option>
   </component>
@@ -123,7 +124,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -164,7 +164,36 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="basic-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day13-code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day13-code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day13-code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day13-code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="demo1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -205,7 +234,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ClassDemo3">
+  <component name="RunManager" selected="Application.Burrito">
+    <configuration name="Burrito" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lcscim.study.demo1.Burrito" />
+      <module name="day13-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lcscim.study.demo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ClassDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lcscim.study.demo1.ClassDemo1" />
       <module name="day12-code" />
@@ -245,44 +287,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="day11-code" />
+    <configuration name="EnumDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lcscim.study.demo1.EnumDemo1" />
+      <module name="day13-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lcscim.study.test.*" />
+          <option name="PATTERN" value="com.lcscim.study.demo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.lcscim.study.test" />
-      <option name="MAIN_CLASS_NAME" value="com.lcscim.study.test.CalculatorTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculatorTest.testSub" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="day11-code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lcscim.study.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lcscim.study.test" />
-      <option name="MAIN_CLASS_NAME" value="com.lcscim.study.test.CalculatorTest" />
-      <option name="METHOD_NAME" value="testSub" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Burrito" />
+        <item itemvalue="Application.EnumDemo1" />
         <item itemvalue="Application.ClassDemo3" />
         <item itemvalue="Application.ClassDemo2" />
         <item itemvalue="Application.ClassDemo1" />
-        <item itemvalue="JUnit.CalculatorTest" />
-        <item itemvalue="JUnit.CalculatorTest.testSub" />
       </list>
     </recent_temporary>
   </component>
@@ -325,7 +349,11 @@
       <workItem from="1558664488782" duration="4450000" />
       <workItem from="1558752921541" duration="4728000" />
       <workItem from="1558865358648" duration="1713000" />
-      <workItem from="1558926506573" duration="8632000" />
+      <workItem from="1558926506573" duration="9157000" />
+      <workItem from="1559011198251" duration="12000" />
+      <workItem from="1559011249547" duration="1224000" />
+      <workItem from="1559016742071" duration="5678000" />
+      <workItem from="1559195604951" duration="328000" />
     </task>
     <servers />
   </component>
@@ -350,12 +378,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84933000" />
+    <option name="totallyTimeSpent" value="92700000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="524" y="9" width="1295" height="941" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.25263157" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.26882592" />
       <window_info id="Structure" order="1" sideWeight="0.5010846" side_tool="true" weight="0.13486141" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -364,7 +392,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5010846" side_tool="true" weight="0.13486141" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24752475" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24752475" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -425,26 +453,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day07-code/src/com/lcscim/study/demo3/Demo6DiGui.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day07-code/src/com/lcscim/study/demo3/Demo7DiGui.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fw.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/day08-code/src/com/lcscim/study/demo1/FWWriter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -863,6 +871,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day13-code/src/com/lcscim/study/demo1/EnumDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day13-code/src/com/lcscim/study/demo1/Burrito.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="35" column="54" lean-forward="true" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="54" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day13-code/src/com/lcscim/study/demo1/Spiciness.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
         </state>
       </provider>
     </entry>
