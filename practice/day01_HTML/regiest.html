@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>regiest</title>
+    <style>
+        body{
+            background: url("img/Desert.jpg") no-repeat;
+            background-size: 100%;
+        }
+        #div1{
+            border: 10px solid #A6A6A6;
+            background-color: white;
+            width: 1200px;
+            height: 750px;
+            margin: auto;
+            margin-top: 100px;
+            padding: 20px;
+
+        }
+        #p1,#p2{
+            letter-spacing: 2px;
+        }
+        #p1{
+            color: #FFD026;
+            font-size: 20px;
+        }
+        #div1_left{
+            margin-left: 20px;
+            float: left;
+            border: 1px solid;
+        }
+        #div1_right{
+            margin-right: 20px;
+            float: right;
+            border: 1px solid;
+        }
+        #div1_center{
+            float: left;
+            text-align: center;
+            border: 1px solid;
+            width: 60%;
+            margin-left: 50px;
+        }
+        table{
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+    <div id="div1">
+        <div id="div1_left">
+            <p id="p1"><b>用户注册</b></p>
+            <p id="p2">USER REGIESTES</p>
+        </div>
+
+        <div id="div1_center">
+            <form>
+
+                <table>
+                    <tr>
+                        <td>
+                            姓名：
+                        </td>
+                        <td>
+                            <input type="text" name="username" placeholder="请输入姓名">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            密码：
+                        </td>
+                        <td>
+                            <input type="password" name="password">
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+
+        <div id="div1_right">
+            <p>已有账号？<a href="#">请登录</a></p>
+        </div>
+    </div>
+</body>
+</html>
