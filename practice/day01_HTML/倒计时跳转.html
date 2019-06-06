@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        p{
+            text-align: center;
+        }
+        span{
+            color: red;
+        }
+    </style>
+</head>
+
+<body>
+<p>
+    <span id="sec">5</span>秒后跳转至首页。。。
+</p>
+<script>
+    var miao = 5;
+
+    function fun(){
+        miao--;
+
+        if (miao == 0){
+            location.href="http://www.baidu.com";
+        }else {
+
+            var sec = document.getElementById("sec");
+            sec.innerHTML = miao +"";
+        }
+    }
+
+    setInterval(fun,1000);
+</script>
+</body>
+</html>
